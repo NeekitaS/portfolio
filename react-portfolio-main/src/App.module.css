@@ -1,0 +1,8 @@
+@import "./vars.css";
+
+.App {
+  background-image: radial-gradient(circle, #03021f, #07183a, #0b274b, #0b2e4d, #090d36e3, #1a4971, #204c77, #0e2b4e, #77365a, #362069, #4c125b, #5f1650);
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}

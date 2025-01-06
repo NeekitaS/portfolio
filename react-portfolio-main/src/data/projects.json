@@ -1,0 +1,34 @@
+[
+  {
+    "title": "ClipCrux",
+    "imageSrc": "projects/clipCruxx.jpg",
+    "description": "This is a website which take the youtube video URL and convert it into summarized text. ",
+    "skills": ["HTML", "CSS", "JS", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NeekitaS/ClipCrux"
+  },
+  {
+    "title": "Rock-Paper-Scissor",
+    "imageSrc": "projects/rockpaper.png",
+    "description": "This is a website for rock-paper-scissor game until 10 rounds agianst computer. One with maximum score will win",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NeekitaS/ROCK-PAPER-SCISSOR-game"
+  },
+  {
+    "title": "Amazon Clone",
+    "imageSrc": "projects/amazon.png",
+    "description": "This is a website that i made to practice my frontend skills. It is a amazon frontent clone which i made using only html and css.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NeekitaS/AMAZON_CLONE"
+  },
+  {
+    "title": "Console Based Program",
+    "imageSrc": "projects/project.png",
+    "description": "This is a console based programs where i programmed -Tic_Tac_Toe game -guessNumber game -simple Calculator",
+    "skills": ["C++"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NeekitaS/codsoft"
+  }
+]

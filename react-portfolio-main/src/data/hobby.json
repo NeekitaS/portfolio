@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Singing",
+    "imageSrc":"history/mic.png"
+  },
+  {
+    "title": "Dancing",
+    "imageSrc":"history/dance.png"
+  },
+  {
+    "title": "Coding",
+    "imageSrc":"history/code.png"
+  },
+  {
+    "title": "Art",
+    "imageSrc":"history/art.png"
+  },
+  {
+    "title": "Watching Anime",
+    "imageSrc":"history/anime.png"
+  },
+  {
+    "title": "Playing Sports",
+    "imageSrc":"history/sports.png"
+  },
+  {
+    "title": "Reading Novels",
+    "imageSrc":"history/book.png"
+  }
+]
