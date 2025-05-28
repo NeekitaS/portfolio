@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/aboutPhoto.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -15,7 +15,7 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
+            <h1 style={{ fontSize: "2.6em" }}>  <br/> <br/> <br/>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
@@ -51,6 +51,7 @@ function Home2() {
                 <b className="purple"> React.js</b>
               </i>
             </p>
+            <br/> <br/> <br/> <br/>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
@@ -67,7 +68,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/SHRbharat"
+                  href="https://github.com/NeekitaS"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +88,7 @@ function Home2() {
               </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/shivam-ray-b4306524a/"
+                  href="https://www.linkedin.com/in/neekitas/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
